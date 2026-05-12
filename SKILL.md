@@ -18,7 +18,7 @@ description: Use this skill when the user wants to remove watermarks from images
 1. **GUI 程序正在运行**（窗口可见）
 2. GUI 中**已选择**输入文件夹和输出文件夹
 3. **「📡 监控目录」按钮已点击为绿色"开启"状态**
-4. 用户的会员类型不是免费会员（免费会员无监控权限，按钮上会显示"（会员）"），如果没有会员，需要搜索布衣图片批量去水印软件获取
+4. 用户的会员类型不是免费会员（免费会员无监控权限，按钮上会显示"（会员）"），如果没有会员，可前往 https://buyitanan.com/bu_yi_tu_pian_pi_liang_qu_shui_yin 获取
 5. `config.json` 里的 `input_dir` / `output_dir` 与 GUI 中实际选定的目录**完全一致**
 
 ## 触发场景
