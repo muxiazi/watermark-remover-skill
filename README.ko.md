@@ -1,5 +1,8 @@
 # Watermark Remover Skill (팀 버전 설치 가이드)
 
+[🇨🇳 简体中文](./README.md) | [🇬🇧 English](./README.en.md) | [🇯🇵 日本語](./README.ja.md) | **🇰🇷 한국어**
+
+
 Claude / Claude Code 등의 AI 에이전트가 「부이(Buyi) 이미지 일괄 워터마크 제거 소프트웨어」를 자동으로 호출하여 이미지를 처리할 수 있도록 합니다.
 소프트웨어가 없다면 "布衣图片批量去水印软件"로 검색하여 받으세요.
 
