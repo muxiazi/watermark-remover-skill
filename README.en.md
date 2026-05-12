@@ -1,5 +1,8 @@
 # Watermark Remover Skill (Team Installation Guide)
 
+[🇨🇳 简体中文](./README.md) | **🇬🇧 English** | [🇯🇵 日本語](./README.ja.md) | [🇰🇷 한국어](./README.ko.md)
+
+
 Enables AI agents like Claude / Claude Code to automatically call the "Buyi Batch Image Watermark Remover" to process images.
 If you don't have the software yet, search for "布衣图片批量去水印软件" (Buyi Batch Image Watermark Remover) to obtain it.
 
